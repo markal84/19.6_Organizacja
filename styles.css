@@ -1,0 +1,15 @@
+
+a {
+    text-decoration: none;
+    font-size: 36px;
+    padding: 10px;
+}
+
+a:hover {
+    color: orange;
+}
+
+.stopwatch {
+    font-size: 40px;
+    padding: 10px;
+}
