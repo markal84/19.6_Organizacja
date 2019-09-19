@@ -2,7 +2,7 @@
   "name": "19.3_babel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
 	"start-babel": "babel script.js --watch --out-file script-compiled.js",
     "test": "echo \"Error: no test specified\" && exit 1"
